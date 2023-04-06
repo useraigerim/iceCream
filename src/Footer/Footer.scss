@@ -1,0 +1,160 @@
+.footer{
+    display: flex;
+    height: 381px;
+   background: #0A0808;
+}
+.footer__logo{
+    padding-left: 245px;
+
+}
+.footer__logo img{
+   width: 79px;
+   height: 79px;
+   margin: 70px 0 9px 0;
+}
+.footer__logo p{
+    height: 47px;
+    width: 207px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0.01em;
+    color: #ffffff;
+    opacity: 0.7;
+}
+.follow{
+    margin-bottom: -100px;
+   
+}
+.follow p{
+    margin-top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+}
+.follow__img{
+    
+    display: flex;
+    gap: 10px;
+
+}
+.follow__img img{
+    width: 15px;
+    height: 15px;
+    
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    gap: 10px;
+    margin-left: 37px;
+
+}
+.home p{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 14px;
+   color: #FFFFFF;
+   margin-top: 143px;
+}
+.home a{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+  opacity: 0.7;
+  text-decoration: none;
+
+
+}
+.delivery{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    gap: 10px;
+    margin-left: 130px;
+
+}
+.delivery a{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+  opacity: 0.8;
+  text-decoration: none;
+
+}
+.newsletter{
+    margin-left: 150px;
+   margin-top: 136px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.newsletter p{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+
+}
+.email{
+  height: 55px;
+  width: 263px;
+  border: 2px solid #D64374;
+border-radius: 5px;
+background: #0A0808;
+padding-left: 32px;
+  
+
+
+}
+
+.email ::placeholder{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  opacity: 0.6;
+  
+  
+
+}
+.subscribe{
+width: 125px;
+height: 55px;
+background: #D23166;
+border-radius: 5px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: aqua;
+padding: 16px;
+
+}
+.pay{
+    margin-top: 15px;
+    gap: 30px;
+}

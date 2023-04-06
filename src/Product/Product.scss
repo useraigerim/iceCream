@@ -1,0 +1,264 @@
+.product{
+    width: 90%;
+    .our{
+
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 600;
+font-size: 44.2px;
+line-height: 61px;
+color: #150101;
+
+margin: 167px 0 64px 680px;
+
+}
+.product__links{
+display: flex;
+align-items: center;
+gap: 40px;
+margin-left: 375px;
+}
+.product__links a{
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+opacity: 0.6;
+text-decoration: none;
+}
+.product__teams{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.product__item{
+    display: flex;
+    align-items: center;
+    gap: 85px;
+    
+    
+}
+.product__left img{
+width: 580px;
+height: 415px;
+margin: 50px 0 120px 250px;
+}
+.product__right h2{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+margin: -110px 0 11px;
+}
+.product__right p{
+width: 454px;
+height: 67px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+opacity: 0.7;
+}
+.product__right h3{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 36px;
+color: #000000;
+margin: 28px 0 16px 0;
+}
+.product__right h3 span{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+text-decoration-line: line-through;
+color: #000000;
+opacity: 0.7;
+}
+
+.product__item2{
+    display: flex;
+    align-items: center;
+    gap: 85px;
+
+}
+.product__right2{
+    margin-left: 300px;
+}
+.product__right2 h2{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin: -110px 0 11px;
+    }
+    .product__right2 p{
+    width: 454px;
+    height: 67px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    opacity: 0.7;
+    }
+    .product__right2 h3{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #000000;
+    margin: 28px 0 16px 0;
+    }
+    .product__right2 h3 span{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    color: #000000;
+    opacity: 0.7;
+    }
+    .product__left2 img{
+    width: 580px;
+    height: 415px;
+    margin: -50px -60px 126px 0;
+
+    }
+    .review{
+        display: flex;
+        
+    
+    }
+    .review__left{
+        width: 350px;
+        margin-left: 250px;
+       
+    }
+    .adele{
+        display: flex;   
+       
+    }
+    .adele__img img{
+        width: 59px;
+        height: 58px;
+        margin-left: -40px;
+    }
+    .adele__info h3{
+    width: 178px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+
+    }
+    .adele__info{
+        display: flex;
+        flex-direction: column;
+        margin-left: 21px;
+    }
+    .adele__info p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+    opacity: 0.7;
+   
+    }
+    .text{
+    margin:  46px 0 56px 0;
+    display: flex;
+    position: relative;
+   
+    
+
+    }
+    .text h3{
+    position: absolute;
+    width: 322px;
+    height: 53px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    opacity: 0.7;
+    }
+
+    .tLeft{
+    position: absolute;
+    top: 30px;
+    left: -0px;
+    }
+    .tRight{
+    position: absolute;
+    top: 80px;
+    right: 360px;
+
+    }
+    .review__img{
+        display: flex;
+        align-items: center;
+
+    }
+    .arrowL{
+        width: 9px;
+        height: 14px;
+        margin-left: -20px;
+    }
+    .arrowR{
+        width: 9px;
+        height: 14px;
+    }
+    .man{
+        width: 47px;
+        height: 47px;
+        border-radius: 50%;
+        margin-left: 30px;
+    }
+    .adele{
+        width: 57px;
+        height: 57px;
+        margin: 0 25px 0 25px;
+    }
+    .woman{
+        width: 47px;
+        height: 47px;
+        border-radius: 50%;
+        margin-right: 30px;
+    }
+    .review__right{
+     margin: -50px 0 149px 224px;
+    }
+    .review__right img{
+        width: 564px;
+        height: 442px;
+        // margin: -50px 0 149px 224px;
+
+    }
+
+
+
+
+
+}

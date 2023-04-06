@@ -1,0 +1,45 @@
+.questions{
+    height: 545px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.questions h1{
+    margin: 190px 0 28px 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+    width: 500px;
+}
+.text{
+    width: 637px;
+    height: 74px;
+    padding: 29px 486px 29px 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #0F0000;
+    opacity: 0.6;
+}
+.placeholder{
+    color: red;
+}
+button{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    border: none;
+    width: 134px;
+    height: 74px;
+    background: #D64374;
+    border-radius: 5px;
+}

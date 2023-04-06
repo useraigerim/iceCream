@@ -1,0 +1,47 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 102px;
+    align-items: center;
+    &__logo{
+        img{
+            width: 79px;
+            height: 79px;
+        }
+
+    }
+    &__links{
+     
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 15px;
+     line-height: 18px;
+    
+     gap: 40px;
+     display: flex;
+     a{
+        text-decoration: none;
+         color: #150101;
+         transition: all 0.2 ease-in;
+         opacity: 0.6;
+         &:hover{
+            color: #D23166;
+            opacity: 1;
+            transition: all 0.2 ease-in;
+         }
+     }
+     
+    }
+
+    &__btn{
+        button{
+            padding: 13px 50px;
+            background: #D23166;
+            border-radius: 5px;
+            bottom: 0;
+            outline: none;
+            color: #FAFAFA;
+        }
+    }
+}
